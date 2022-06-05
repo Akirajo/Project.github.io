@@ -1,0 +1,47 @@
+
+html {
+    background-color: Green;
+  }
+  
+  
+    
+   
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  table {
+    width: 650px;
+    background-color: lightgreen;
+    margin-left: 34%;
+  }
+  ol {
+    text-align: center;
+    vertical-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+	margin-left: 14%
+  }
+  
+  img {
+    width: 350px;
+    height: 250px;
+    border:1px solid black;
+    border: 3px solid blue;
+    padding: 10px;
+    margin-left: 1%;
+  }
+  
+  caption {
+    color: white;
+    caption-side: bottom;
+  }
+  
